@@ -1975,7 +1975,7 @@ MonoBehaviour:
   - {fileID: 4547316765726670916, guid: eea93cded3c308241b112abc7658c5d5, type: 3}
   - {fileID: 4328308915613913383, guid: 28db3faac464d4a478becb9924c6c367, type: 3}
   - {fileID: 8444275263505618035, guid: f886666f5977aff4a8f0698a1b667d87, type: 3}
-  scoreText: {fileID: 1422572326}
+  scoreText: {fileID: 499310623}
   gameOverText: {fileID: 499310623}
   isGameActive: 0
   restartButton: {fileID: 519216867}
